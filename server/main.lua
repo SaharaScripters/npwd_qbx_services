@@ -14,7 +14,7 @@ local ServerConfig = require 'config.server'
 local function getServices()
   local mappedServices = {}
   local players = exports.qbx_core:GetQBPlayers()
-  for _, player in ipairs(players) do
+  for _, player in pairs(players) do
     local jobHash = player.PlayerData.job.name
     local jobName = player.PlayerData.job.label
     if ServerConfig.jobs[jobHash] then
