@@ -1,15 +1,19 @@
-# [NPWD] Services App
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/saharascripters)
 
-External NPWD app for calling service employees, for qbx framework.
+<a href="https://discord.gg/kQxzuyqnkR"><img src="https://discordapp.com/api/guilds/882172298059190282/widget.png?style=banner2" alt="Discord Server"></a>
+
+# [NPWD] Services App for QBX Framework
+
+External NPWD app for calling services (jobs) employees.
 
 ## Description
 
-`npwd_qbx_services` is a FiveM script designed for servers using the QBX framework and NPWD as the phone resource. This script allows players to call service employees directly from their phones, enhancing the roleplay experience.
+`npwd_qbx_services` is a FiveM script designed for servers using the QBX framework and NPWD as a phone resource. This script allows players to call service employees directly from their phones, enhancing the roleplay experience.
 
-## Requirements
+## Dependencies
 
-- NPWD v3.15 or higher
-- QBX Core
+- [NPWD Phone](https://github.com/project-error/npwd)
+- [QBX Core](https://github.com/Qbox-project/qbx_core)
 
 ## Install
 
